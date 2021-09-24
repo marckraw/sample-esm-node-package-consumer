@@ -11,6 +11,8 @@
   "scripts": {
     "dev": "node ./js/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sample-esm-node-package": "0.0.1"
   }
 }
-
